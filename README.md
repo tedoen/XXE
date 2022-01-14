@@ -1,8 +1,8 @@
 # XXE
 
-Zadanie 1 
-Użyj zewnętrznej encji, by wyświetlić zawartość pliku /etc/passwd 
-https://portswigger.net/web-security/xxe/lab-exploiting-xxe-to-retrieve-files
+Zadanie 1
+![obraz](https://user-images.githubusercontent.com/92163834/149504168-f4689a49-873b-448b-920d-c1581f313f7e.png)
+
 
 Zadanie 2
 Wykorzystaj podatność XXE do wykonania ataku SSRF i odczytania tajnego klucza dostępu.
