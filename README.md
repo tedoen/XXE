@@ -1,6 +1,7 @@
 # XXE
 
 #### Uwaga - Do rozwiązania zadań potrzebujesz konta na platformie PortSwigger oraz narzędzia Burp
+https://portswigger.net/
 
 ## Zadanie 1
 Użyj zewnętrznej encji, by wyświetlić zawartość pliku /etc/passwd 
