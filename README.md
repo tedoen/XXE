@@ -1,8 +1,8 @@
 # XXE
 
 Zadanie 1
-![obraz](https://user-images.githubusercontent.com/92163834/149504168-f4689a49-873b-448b-920d-c1581f313f7e.png)
-
+Użyj zewnętrznej encji, by wyświetlić zawartość pliku /etc/passwd 
+https://portswigger.net/web-security/xxe/lab-exploiting-xxe-to-retrieve-files
 
 Zadanie 2
 Wykorzystaj podatność XXE do wykonania ataku SSRF i odczytania tajnego klucza dostępu.
@@ -15,7 +15,19 @@ https://portswigger.net/web-security/xxe/blind/lab-xxe-with-out-of-band-interact
 Zadanie 4
 Użyj Xinclude, by wyświetlić zawartość pliku /etc/passwd
 https://portswigger.net/web-security/xxe/lab-xinclude-attack
-![obraz](https://user-images.githubusercontent.com/92163834/149503970-51d13f45-e4f4-4943-9996-748b9dd1ce8e.png)
+
+Zadanie 5
+Użyj parameter entities, by wysłać żądanie na stronę burpcollaborator.net
+https://portswigger.net/web-security/xxe/blind/lab-xxe-with-out-of-band-interaction-using-parameter-entities
+
+Zadanie 6
+Użyj zewnętrznego DTD, by wywołać błąd, który wyświetli zawartość pliku /etc/passwd.
+https://portswigger.net/web-security/xxe/blind/lab-xxe-with-data-retrieval-via-error-messages
+
+Zadanie 7
+Wgraj awatar, który wyświetli zawartość pliku /etc/hostname
+https://portswigger.net/web-security/xxe/blind/lab-xxe-trigger-error-message-by-repurposing-local-dtd
+
 
 
 
